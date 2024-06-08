@@ -229,9 +229,9 @@
 /* header_search */
 
 .header__logo-link--img{
-    width: 100px;
-    height: 100px;
-    margin-left: 150px;
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
     margin-right: 60px;
 }
 
